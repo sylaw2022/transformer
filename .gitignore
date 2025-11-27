@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Checkpoints and model files (too large for git)
+checkpoints_*/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pb
+
+# Log files
+*.log
+*.log~
+
+# Data files (may be large)
+data/*.txt
+data/*.json
+data/*.csv
+!data/.gitkeep
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.bak
+*.tmp
+
+# Environment variables
+.env
+.env.local
+
+# Token files (security)
+*token*.txt
+*secret*.txt
+*key*.txt
+
+# Temporary scripts
+save_checkpoint_now.py
+save_as_checkpoint_1.py
+stop_and_save_checkpoint.py
+add_checkpoint_save.py
+
