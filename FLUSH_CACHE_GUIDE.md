@@ -135,3 +135,6 @@ PYTHONUNBUFFERED=1 python3 train.py --your-args 2>&1 | tee training.log
 - The log file is being written to, just may be buffered
 
 
+
+
+

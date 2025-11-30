@@ -30,3 +30,6 @@ echo "   Or:  nvidia-smi -l 1"
 echo ""
 
 
+
+
+

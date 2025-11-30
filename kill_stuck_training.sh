@@ -36,3 +36,6 @@ echo "GPU should now be available. Try starting training again:"
 echo "  ./start_training.sh"
 
 
+
+
+

@@ -70,3 +70,6 @@ Since you're only at 29% of epoch 1, **stopping now and restarting with the new 
 - You'll have better control over checkpoint saving
 
 
+
+
+
